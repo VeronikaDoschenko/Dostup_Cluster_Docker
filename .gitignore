@@ -1,0 +1,5 @@
+midpoint-4.9.2/
+ssl/
+pgdata/
+.env
+*.log
